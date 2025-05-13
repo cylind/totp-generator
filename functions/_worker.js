@@ -1,5 +1,5 @@
 /**
- * Cloudflare Worker for TOTP Extension Sync with R2
+ * Cloudflare Worker/Pages for TOTP Extension Sync with R2
  */
 
 // The filename in R2 where the backup will be stored.
